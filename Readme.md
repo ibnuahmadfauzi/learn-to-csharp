@@ -30,6 +30,4 @@ dotnet run
 
 **1-helloworld.cs**
 
-```
 ready to use base code
-```
